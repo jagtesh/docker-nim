@@ -4,8 +4,7 @@
 This is a quick attempt to get the Nim compiler and nimble package manager
 bundled into a Docker image.
 
-The base image is Alpine Linux (see: https://registry.hub.docker.com/_/alpine/)
-which keeps things slim.
+The base image is Ubuntu Linux 14.04.
 
 ## Layout
 
